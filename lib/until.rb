@@ -3,6 +3,7 @@ def using_until
   #your code here
   until == 4
     puts "Wingardium Leviosa"
+    levitation_force +=1
   end
 
 end
